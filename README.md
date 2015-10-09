@@ -9,6 +9,7 @@ It excludes:
 * modamn
 * composer.json
 * README.md
+* LICENSE.txt
 * .DS_Store
 
 when generating *modman*. If the modman file is already there, it will be overwritten.
